@@ -3,7 +3,7 @@
 ## Upcoming
 
 - [Pitagora Meetup 2018-12]()
-- [CWL Workshop Tokyo 2018](docs/workshop/cwl-workshop-tokyo-2018.md)
+- [CWL Workshop Tokyo 2018](cwl-workshop-tokyo-2018)
 
 ## Meetup
 
