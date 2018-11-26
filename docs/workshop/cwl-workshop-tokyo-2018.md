@@ -2,8 +2,6 @@
 
 Half-day workshop to get familiar with Common Workflow Language and related products.
 
-**NOTE: Date and Program are temporal and can be changed**
-
 ## Registration
 
 *In preparation*
