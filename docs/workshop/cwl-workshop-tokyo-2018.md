@@ -14,7 +14,9 @@ Half-day workshop to get familiar with Common Workflow Language and related prod
 
 ## Venue
 
-- TBA
+- Next site Shibuya building
+  - 2-12-4 Shibuya, Shibuya-ku, Tokyo, 150-0002
+  - https://goo.gl/maps/QKtcixQ2EcU2
 
 ## Program
 
