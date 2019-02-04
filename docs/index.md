@@ -89,7 +89,7 @@
 
 - [Galaxy Workshop Tokyo 2015](http://wiki.pitagora-galaxy.org/wiki/index.php/Galaxy_Workshop_Tokyo_2015)
 - [Galaxy Workshop Tokyo 2016](http://wiki.pitagora-galaxy.org/wiki/index.php/Galaxy_Workshop_Tokyo_2016)
-- [CWL Workshop Tokyo 2018](workshop/cwl-workshop-tokyo-2018)
+- [CWL Workshop Tokyo 2018](workshop/2018/cwl-workshop-tokyo-2018)
 
 ### Related meetings
 
