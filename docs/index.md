@@ -10,11 +10,11 @@
 
 ### Meetup
 
-- [Pitagora Meetup 2019-02 satellite](meetup/meetup-201902-satellite)
+- [Pitagora Meetup 2019-02 satellite](meetup/2019/meetup-201902-satellite)
   - 2019-02-04 @ 国立情報学研究所
-- [Pitagora Meetup 2019-02](meetup/meetup-201902)
+- [Pitagora Meetup 2019-02](meetup/2019/meetup-201902)
   - 2019-02-05 @ 理研日本橋
-- [Pitagora Meetup 2019-03](meetup/meetup-201903)
+- [Pitagora Meetup 2019-03](meetup/2019/meetup-201903)
 
 ### Related meetings
 
@@ -28,8 +28,8 @@
 
 ### Meetup
 
-- [Pitagora Meetup 2019-01](meetup/meetup-201901)
-- [Pitagora Meetup 2018-12](meetup/meetup-201812)
+- [Pitagora Meetup 2019-01](meetup/2019/meetup-201901)
+- [Pitagora Meetup 2018-12](meetup/2019/meetup-201812)
 - [Pitagora Meetup 2018-11](http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-11)
 - [Pitagora Meetup 2018-10](http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-10)
 - [Pitagora Meetup 2018-09+](http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-09_%2B)
