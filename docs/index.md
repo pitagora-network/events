@@ -10,11 +10,10 @@
 
 ### Meetup
 
-- [Pitagora Meetup 2019-02 satellite](meetup/2019/meetup-201902-satellite)
-  - 2019-02-04 @ 国立情報学研究所
-- [Pitagora Meetup 2019-02](meetup/2019/meetup-201902)
-  - 2019-02-05 @ 理研日本橋
 - [Pitagora Meetup 2019-03](meetup/2019/meetup-201903)
+  - 2019-03-08 @ 国立情報学研究所
+- [CWL Meetup Tokyo 2019-03](meetup/2019/cwl-meetup-201903)
+  - 2019-03-22 @ 国立情報学研究所
 
 ### Related meetings
 
@@ -28,16 +27,30 @@
 
 ### Meetup
 
+- [Pitagora Meetup 2019-02](meetup/2019/meetup-201902)
+  - 2019-02-05 @ 理研日本橋, 参加者10名
+- [Pitagora Meetup 2019-02 satellite](meetup/2019/meetup-201902-satellite)
+  - 2019-02-04 @ 国立情報学研究所, 参加者6名
 - [Pitagora Meetup 2019-01](meetup/2019/meetup-201901)
-- [Pitagora Meetup 2018-12](meetup/2019/meetup-201812)
+  - 2019-01-07 @ 慶応大三田キャンパス, 参加者8名
+- [Pitagora Meetup 2018-12](http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-12)
+  - 2018-12-03 @ 板橋区貸会議室, 参加者10名
 - [Pitagora Meetup 2018-11](http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-11)
+  - 2018-11-02 @ 国立情報学研究所, 参加者9名
 - [Pitagora Meetup 2018-10](http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-10)
+  - 2018-10-01 @ 理研日本橋, 参加者10名
 - [Pitagora Meetup 2018-09+](http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-09_%2B)
+  - 2018-09-03 @ 日本オラクル, 参加者14名
 - [Pitagora Meetup 2018-09](http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-09)
+  - 2018-08-06 @ 理研日本橋, 参加者15名
 - [Pitagora Meetup 2018-08](http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-08)
+  - 2018-07-05 @ 理研日本橋, 参加者12名
 - [Pitagora Meetup 2018-07](http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-07)
+  - 2018-06-07 @ 株式会社アスケイド, 参加者11名
 - [Pitagora Meetup 2018-06](http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-06)
+  - 2018-05-10 @ 理研日本橋, 参加者15名
 - [Pitagora Meetup 2018-05](http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-05)
+  - 2018-04-13 @ 理研日本橋, 参加者12名
 - [Pitagora Meetup 2018-04](http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-04)
 - [Pitagora Meetup 2018-03](http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-03)
 - [Pitagora Meetup 2018-02](http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-02)
