@@ -5,7 +5,7 @@
 [Common Workflow Language](https://www.commonwl.org) の Project Lead である Michael R. Crusoe さんの来日に合わせて東京でミートアップを開催します。CWLについて興味がある、聞いてみたいことがある、困っていることがある方は是非ご参加ください。
 
 - 日時： 2019年3月22日（金）10:00 〜 18:00
-- 場所： 国立情報学研究所 (神保町) 1208 会議室 (12階)
+- 場所： 国立情報学研究所 (神保町) 2005 会議室 (20階)
 - 連絡先： 大田 t.ohta [at] dbcls.rois.ac.jp
 
 ## タイムテーブル
