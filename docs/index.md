@@ -26,7 +26,7 @@
 ### Meetup
 
 - [Pitagora Meetup 2019-03](meetup/2019/meetup-201903)
-  - 2019-03-08 @ 国立情報学研究所
+  - 2019-03-08 @ 国立情報学研究所, 参加者11名
 - [Pitagora Meetup 2019-02](meetup/2019/meetup-201902)
   - 2019-02-05 @ 理研日本橋, 参加者10名
 - [Pitagora Meetup 2019-02 satellite](meetup/2019/meetup-201902-satellite)
