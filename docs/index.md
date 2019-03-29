@@ -10,10 +10,8 @@
 
 ### Meetup
 
-- [Pitagora Meetup 2019-03](meetup/2019/meetup-201903)
-  - 2019-03-08 @ 国立情報学研究所
-- [CWL Meetup Tokyo 2019-03](meetup/2019/cwl-meetup-201903)
-  - 2019-03-22 @ 国立情報学研究所
+- [Pitagora Meetup 2019-04](meetup/2019/meetup-201904)
+  - 2019-04-04 @ 慶應義塾大学三田キャンパス
 
 ### Related meetings
 
@@ -27,6 +25,8 @@
 
 ### Meetup
 
+- [Pitagora Meetup 2019-03](meetup/2019/meetup-201903)
+  - 2019-03-08 @ 国立情報学研究所
 - [Pitagora Meetup 2019-02](meetup/2019/meetup-201902)
   - 2019-02-05 @ 理研日本橋, 参加者10名
 - [Pitagora Meetup 2019-02 satellite](meetup/2019/meetup-201902-satellite)
@@ -100,6 +100,8 @@
 
 ### Workshop
 
+- [CWL Meetup Tokyo 2019-03](meetup/2019/cwl-meetup-201903)
+  - 2019-03-22 @ 国立情報学研究所
 - [Galaxy Workshop Tokyo 2015](workshop/2015/Galaxy_Workshop_Tokyo_2015)
 - [Galaxy Workshop Mini Tokyo 2015](workshop/2015/Mini_Workshop_2015-01)
 - [Galaxy Workshop Tokyo 2016](workshop/2016/Galaxy_Workshop_Tokyo_2016)
