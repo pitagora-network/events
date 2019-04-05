@@ -6,12 +6,12 @@
 
 ## Upcoming
 
-今後開催予定のイベントです。日時や場所は変更になる可能性があります。
+今後開催予定のイベントです。日時や場所は変更になる可能性がありますのでご注意ください。
 
 ### Meetup
 
-- [Pitagora Meetup 2019-04](meetup/2019/meetup-201904)
-  - 2019-04-04 @ 慶應義塾大学三田キャンパス
+- [Pitagora Meetup 2019-05](meetup/2019/meetup-201905)
+  - 2019-05-27 @ 国立情報学研究所
 
 ### Related meetings
 
@@ -25,6 +25,8 @@
 
 ### Meetup
 
+- [Pitagora Meetup 2019-04](meetup/2019/meetup-201904)
+  - 2019-04-04 @ 慶應義塾大学三田キャンパス, 参加者8名
 - [Pitagora Meetup 2019-03](meetup/2019/meetup-201903)
   - 2019-03-08 @ 国立情報学研究所, 参加者11名
 - [Pitagora Meetup 2019-02](meetup/2019/meetup-201902)
