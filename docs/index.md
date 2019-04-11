@@ -11,7 +11,7 @@
 ### Meetup
 
 - [Pitagora Meetup 2019-05](meetup/2019/meetup-201905)
-  - 2019-05-27 @ 国立情報学研究所
+  - 2019-05-27 @ 理研日本橋
 
 ### Related meetings
 
