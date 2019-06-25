@@ -10,14 +10,17 @@
 
 ### Meetup
 
-- [Pitagora Meetup 2019-05](meetup/2019/meetup-201905)
-  - 2019-05-27 @ 理研日本橋
+- [Pitagora Meetup 2019-06](meetup/2019/meetup-201906)
+  - 2019-06-26 @ DBCLS 柏の葉ラボ
 
 ### Related meetings
 
-- [BOSC 2019](http://www.obf.io/wiki/BOSC_2019)
+- [BOSC 2019](https://www.open-bio.org/events/bosc/)
   - July 24-25, 2019: BOSC 2019, Basel, Switzerland
-  - July 26-28, 2019: CollaborationFest 2019, TBA
+  - July 26-28, 2019: CollaborationFest 2019, The Swiss Innovation Hub for Personalized Medicine, Basel, Switzerland
+- [BioHackathon 2019](http://2019.biohackathon.org)
+  - September 1-7, 2019: [The Luigans](https://www.luigans.com), Fukuoka, Japan
+  - Registration is now open!
 
 ## Past Events
 
@@ -25,6 +28,8 @@
 
 ### Meetup
 
+- [Pitagora Meetup 2019-05](meetup/2019/meetup-201905)
+  - 2019-05-27 @ 理研日本橋
 - [Pitagora Meetup 2019-04](meetup/2019/meetup-201904)
   - 2019-04-04 @ 慶應義塾大学三田キャンパス, 参加者8名
 - [Pitagora Meetup 2019-03](meetup/2019/meetup-201903)
