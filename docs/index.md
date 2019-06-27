@@ -10,8 +10,10 @@
 
 ### Meetup
 
-- [Pitagora Meetup 2019-06](meetup/2019/meetup-201906)
-  - 2019-06-26 @ DBCLS 柏の葉ラボ
+- [Pitagora Meetup 2019-07](meetup/2019/meetup-201907)
+  - 日程および会場は調整中
+- [Pitagora Meetup 2019-08](meetup/2019/meetup-201908)
+  - 日程および会場は調整中
 
 ### Related meetings
 
@@ -28,8 +30,10 @@
 
 ### Meetup
 
+- [Pitagora Meetup 2019-06](meetup/2019/meetup-201906)
+  - 2019-06-26 @ DBCLS 柏の葉ラボ, 参加者3名
 - [Pitagora Meetup 2019-05](meetup/2019/meetup-201905)
-  - 2019-05-27 @ 理研日本橋
+  - 2019-05-27 @ 理研日本橋, 参加者10名
 - [Pitagora Meetup 2019-04](meetup/2019/meetup-201904)
   - 2019-04-04 @ 慶應義塾大学三田キャンパス, 参加者8名
 - [Pitagora Meetup 2019-03](meetup/2019/meetup-201903)
