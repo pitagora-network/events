@@ -11,9 +11,9 @@
 ### Meetup
 
 - [Pitagora Meetup 2019-07](meetup/2019/meetup-201907)
-  - 日程および会場は調整中
+  - 2019-07-18 @ 調整中
 - [Pitagora Meetup 2019-08](meetup/2019/meetup-201908)
-  - 日程および会場は調整中
+  - 2019-08-19 @ 理研日本橋
 
 ### Related meetings
 
