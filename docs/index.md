@@ -10,17 +10,15 @@
 
 ### Meetup
 
-- [Pitagora Meetup 2019-08](meetup/2019/meetup-201908)
-  - 2019-08-19 @ 理研日本橋
+- [Pitagora Meetup 2019-10](meetup/2019/meetup-201910)
+  - 2019-10-24 @ 理研日本橋
+- [Pitagora Meetup 2019-11](meetup/2019/meetup-201911)
+  - 2019-11-11 @ 会場未定
 
 ### Related meetings
 
-- [BOSC 2019](https://www.open-bio.org/events/bosc/)
-  - July 24-25, 2019: BOSC 2019, Basel, Switzerland
-  - July 26-28, 2019: CollaborationFest 2019, The Swiss Innovation Hub for Personalized Medicine, Basel, Switzerland
-- [BioHackathon 2019](http://2019.biohackathon.org)
-  - September 1-7, 2019: [The Luigans](https://www.luigans.com), Fukuoka, Japan
-  - Registration is now open!
+- Elixir's [BioHackathon Europe 2019](https://www.biohackathon-europe.org)
+  - PARIS 2019 November 18th - 22th
 
 ## Past Events
 
@@ -28,6 +26,10 @@
 
 ### Meetup
 
+- [Pitagora Meetup 2019-09](meetup/2019/meetup-201909)
+  - 2019-09-30 @ 理研日本橋, 参加者15名
+- [Pitagora Meetup 2019-08](meetup/2019/meetup-201908)
+  - 2019-08-19 @ 理研日本橋, 参加者11名
 - [Pitagora Meetup 2019-07](meetup/2019/meetup-201907)
   - 2019-07-18 @ 理研日本橋, 参加者9名
 - [Pitagora Meetup 2019-06](meetup/2019/meetup-201906)
@@ -123,10 +125,15 @@
 #### Hackathons
 
 - [BioHackathon 2018](http://2018.biohackathon.org/)
-- [BioHackathon 2018 Paris](http://bh2018paris.info/)
+- [BioHackathon 2018 Paris](https://2018.biohackathon-europe.org)
+- [BioHackathon 2019](http://2019.biohackathon.org)
 
 #### Scientific conferences
 
+- [IIBMP 2019](https://www.open-bio.org/events/bosc/)
+  - BoF [CWL Live Coding Session](https://iibmp2019.tokyo/program/bof/#bof3) を開催しました
+  - BoF [データ解析ワークフローの共有に向けて](https://iibmp2019.tokyo/program/bof/#bof5) を開催しました
+- [BOSC 2019](https://www.open-bio.org/events/bosc/)
 - [MBSJ 2018](https://www2.aeplan.co.jp/mbsj2018/english/)
 - [GCC/BOSC 2018](https://gccbosc2018.sched.com/)
 - [IIBMP 2018](http://iibmp2018.org/wp/)
