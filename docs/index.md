@@ -11,7 +11,7 @@
 ### Meetup
 
 - [Pitagora Meetup 2019-11](meetup/2019/meetup-201911)
-  - 2019-11-11 @ 会場未定
+  - 2019-11-11 @ 慶應義塾大学 三田キャンパス
 - [Pitagora Meetup 2019-12](meetup/2019/meetup-201912)
   - 2019-12-09 @ 理研日本橋
 - [Pitagora Meetup 2019-12 Encore](meetup/2019/meetup-201912Ex)
@@ -29,7 +29,7 @@
 ### Meetup
 
 - [Pitagora Meetup 2019-10](meetup/2019/meetup-201910)
-  - 2019-10-24 @ 理研日本橋
+  - 2019-10-24 @ 理研日本橋, 参加者5名
 - [Pitagora Meetup 2019-09](meetup/2019/meetup-201909)
   - 2019-09-30 @ 理研日本橋, 参加者15名
 - [Pitagora Meetup 2019-08](meetup/2019/meetup-201908)
