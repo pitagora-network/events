@@ -14,7 +14,7 @@
   - 2019-11-11 @ 慶應義塾大学 三田キャンパス
 - [Pitagora Meetup 2019-12](meetup/2019/meetup-201912)
   - 2019-12-09 @ 理研日本橋
-- [Pitagora Meetup 2019-12 Encore](meetup/2019/meetup-201912Ex)
+- [Pitagora Meetup 2019-12 Encore](meetup/2019/meetup-201912-Encore)
   - 2019-12-12 @ 福岡市内, 会場未定
 
 ### Related meetings
