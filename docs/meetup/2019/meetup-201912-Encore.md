@@ -4,8 +4,8 @@
 
 ## 概要
 
-- 日時： 2019年12月12日（木）10:00 〜 17:00 (予定)
-- 場所： 福岡県福岡市内 場所未定
+- 日時： 2019年12月12日（木）10:00 〜 17:00
+- 場所： [みんなの貸会議室 天神西通り北店 803会議室](https://minnanospace.com/spaces/?tabId=under-20&room=803&utm_source=kaigisitsu&utm_campaign=803price) (福岡県福岡市)
 - 連絡先： 大田 t.ohta [at] dbcls.rois.ac.jp
 - Skype ID：pitagora-network ([最新バージョンのSkype](http://www.skype.com/ja/)の使用を推奨)
 

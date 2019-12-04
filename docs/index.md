@@ -13,12 +13,16 @@
 - [Pitagora Meetup 2019-12](meetup/2019/meetup-201912)
   - 2019-12-09 @ 理研日本橋
 - [Pitagora Meetup 2019-12 Encore](meetup/2019/meetup-201912-Encore)
-  - 2019-12-12 @ 福岡市内, 会場未定
+  - 2019-12-12 @ [みんなの貸会議室 天神西通り北店 803会議室](https://minnanospace.com/spaces/?tabId=under-20&room=803&utm_source=kaigisitsu&utm_campaign=803price)(福岡県福岡市)
 
 ### Related meetings
 
-- Elixir's [BioHackathon Europe 2019](https://www.biohackathon-europe.org)
-  - PARIS 2019 November 18th - 22th
+- [Bioinformatics Community Conference 2020 (BOSC x GCC)](https://bcc2020.github.io)
+  - 18th - 21st July 2020
+- BioHackathon 2020 Hiroshima (仮)
+  - 6th - 12th September 2020
+- [BioHackathon Europe 2020](https://www.biohackathon-europe.org)
+  - 8th - 13th November 2020
 
 ## Past Events
 
@@ -131,6 +135,8 @@
 - [BioHackathon 2018](http://2018.biohackathon.org/)
 - [BioHackathon 2018 Paris](https://2018.biohackathon-europe.org)
 - [BioHackathon 2019](http://2019.biohackathon.org)
+- Elixir's [BioHackathon Europe 2019](https://www.biohackathon-europe.org)
+  - PARIS 2019 November 18th - 22th
 
 #### Scientific conferences
 
