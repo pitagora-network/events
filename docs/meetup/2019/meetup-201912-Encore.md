@@ -1,6 +1,6 @@
 # Pitagora Meetup 2019-12 Encore
 
-今回は [Kyushu Bioinformatics Community (KBC)](https://www.slideshare.net/KyushuBioinformaticsCommunity) との交流を目的とした福岡での開催です！
+今回は [Kyushu Bioinformatics Community (KBC)](http://kyushubioinfo.mystrikingly.com/) との交流を目的とした福岡での開催です！
 
 ## 概要
 
