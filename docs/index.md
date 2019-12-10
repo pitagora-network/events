@@ -10,19 +10,17 @@
 
 ### Meetup
 
-- [Pitagora Meetup 2019-12](meetup/2019/meetup-201912)
-  - 2019-12-09 @ 理研日本橋
 - [Pitagora Meetup 2019-12 Encore](meetup/2019/meetup-201912-Encore)
   - 2019-12-12 @ [みんなの貸会議室 天神西通り北店 803会議室](https://minnanospace.com/spaces/?tabId=under-20&room=803&utm_source=kaigisitsu&utm_campaign=803price)(福岡県福岡市)
 
-### Related meetings
+### Related events
 
 - [Bioinformatics Community Conference 2020 (BOSC x GCC)](https://bcc2020.github.io)
-  - 18th - 21st July 2020
-- BioHackathon 2020 Hiroshima (仮)
-  - 6th - 12th September 2020
+  - 18th - 21st July 2020, Toronto, Canada
+- BioHackathon 2020 (仮)
+  - 6th - 12th September 2020, Hiroshima, Japan
 - [BioHackathon Europe 2020](https://www.biohackathon-europe.org)
-  - 8th - 13th November 2020
+  - 8th - 13th November 2020, Barcelona, Spain
 
 ## Past Events
 
@@ -30,6 +28,8 @@
 
 ### Meetup
 
+- [Pitagora Meetup 2019-12](meetup/2019/meetup-201912)
+  - 2019-12-09 @ 理研日本橋, 参加者12名
 - [Pitagora Meetup 2019-11](meetup/2019/meetup-201911)
   - 2019-11-11 @ 慶應義塾大学 三田キャンパス, 参加者11名
 - [Pitagora Meetup 2019-10](meetup/2019/meetup-201910)
@@ -132,13 +132,16 @@
 
 #### Hackathons
 
-- [BioHackathon 2018](http://2018.biohackathon.org/)
 - [BioHackathon 2018 Paris](https://2018.biohackathon-europe.org)
+  - Paris 2018 November 12th - 16th
+- [BioHackathon 2018](http://2018.biohackathon.org/)
+  - Matsue, Japan December 9th  - 15th
 - [BioHackathon 2019](http://2019.biohackathon.org)
+  - Fukuoka, Japan September 1st - 7th
 - Elixir's [BioHackathon Europe 2019](https://www.biohackathon-europe.org)
-  - PARIS 2019 November 18th - 22th
+  - Paris 2019 November 18th - 22th
 
-#### Scientific conferences
+#### Conferences
 
 - [IIBMP 2019](https://www.open-bio.org/events/bosc/)
   - BoF [CWL Live Coding Session](https://iibmp2019.tokyo/program/bof/#bof3) を開催しました
