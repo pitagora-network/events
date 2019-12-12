@@ -2,11 +2,17 @@
 
 今回は [Kyushu Bioinformatics Community (KBC)](http://kyushubioinfo.mystrikingly.com/) との交流を目的とした福岡での開催です！
 
+また、今回は [InterCloud-CREST](https://www.jst.go.jp/kisoken/crest/en/project/1111081/15655350.html) のサポートを受けています。InterCloud-CREST で開発している Academic InterCloud の技術開発に関するトーク「Academic InterCloud と CWL」をお願いしています。
+
 ## 概要
 
 - 日時： 2019年12月12日（木）10:00 〜 17:00
 - 場所： [みんなの貸会議室 天神西通り北店 803会議室](https://minnanospace.com/spaces/?tabId=under-20&room=803&utm_source=kaigisitsu&utm_campaign=803price) (福岡県福岡市)
-- 連絡先： 大田 t.ohta [at] dbcls.rois.ac.jp
+  - 入り口が施錠されています。到着されましたら鍵を開けますので、以下の連絡先までご連絡ください。
+- 連絡先：
+  - 大田
+    - Mail: t.ohta [at] dbcls.rois.ac.jp
+    - Twitter: https://twitter.com/iNut
 - Skype ID：pitagora-network ([最新バージョンのSkype](http://www.skype.com/ja/)の使用を推奨)
 
 ## タイムテーブル
@@ -18,7 +24,8 @@
 |10:00-10:15|今日の作業確認|
 |10:15-11:30|開発とディスカッション|
 |11:30-12:30|ランチ|
-|12:30-16:30|開発とディスカッション|
+|12:30-13:30|InterCloud presentation|
+|13:30-16:30|開発とディスカッション|
 |16:30-17:00|ラップアップ|
 |17:00-|有識者会議|
 
