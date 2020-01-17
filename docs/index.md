@@ -10,18 +10,16 @@
 
 ### Meetup
 
-- [Pitagora Meetup 2020-01](meetup/2020/meetup-202001)
-  - 2020-01-16 @ 未定
 - [Pitagora Meetup 2020-02](meetup/2020/meetup-202002)
-  - 2020-02-27 @ 未定
+  - 2020-02-27 @ 国立情報学研究所
 
 ### Related events
 
 - [Bioinformatics Community Conference 2020 (BOSC x GCC)](https://bcc2020.github.io)
   - 18th - 21st July 2020, Toronto, Canada
-- BioHackathon 2020 (仮)
-  - 6th - 12th September 2020, Hiroshima, Japan
-- [BioHackathon Europe 2020](https://www.biohackathon-europe.org)
+- NBDC/DBCLS BioHackathon 2020
+  - 6th - 12th September 2020, Hiroshima, Japan (仮)
+- [Elixir BioHackathon 2020](https://www.biohackathon-europe.org)
   - 8th - 13th November 2020, Barcelona, Spain
 
 ## Past Events
@@ -30,6 +28,8 @@
 
 ### Meetup
 
+- [Pitagora Meetup 2020-01](meetup/2020/meetup-202001)
+  - 2020-01-16 @ 慶應義塾大学三田キャンパス, 参加者9人
 - [Pitagora Meetup 2019-12 Encore](meetup/2019/meetup-201912-Encore)
   - 2019-12-12 @ [みんなの貸会議室 天神西通り北店 803会議室](https://minnanospace.com/spaces/?tabId=under-20&room=803&utm_source=kaigisitsu&utm_campaign=803price)(福岡県福岡市), 参加者5名
 - [Pitagora Meetup 2019-12](meetup/2019/meetup-201912)
