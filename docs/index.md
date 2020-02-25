@@ -11,7 +11,7 @@
 ### Meetup
 
 - [Pitagora Meetup 2020-02](meetup/2020/meetup-202002)
-  - 2020-02-27 @ 国立情報学研究所
+  - 2020-02-27 @ フルリモート
 
 ### Related events
 
