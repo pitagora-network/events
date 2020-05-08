@@ -11,7 +11,7 @@
 ### Meetup
 
 - [Pitagora Meetup 2020-05](meetup/2020/meetup-202005)
-  - 2020-05-XX @ フルリモート
+  - 2020-05-20 @ フルリモート
 
 ### Related Meetings
 
