@@ -10,8 +10,8 @@
 
 ### Meetup
 
-- [Pitagora Meetup 2020-06](meetup/2020/meetup-202006)
-  - 2020-06-19 @ フルリモート
+- [Pitagora Meetup 2020-07](meetup/2020/meetup-202007)
+  - 2020-07-XX @ フルリモート
 
 ### Related Meetings
 
@@ -29,6 +29,8 @@
 
 ### Meetup
 
+- [Pitagora Meetup 2020-06](meetup/2020/meetup-202006)
+  - 2020-06-19 @ フルリモート, 参加者11人
 - [Pitagora Meetup 2020-05](meetup/2020/meetup-202005)
   - 2020-05-20 @ フルリモート, 参加者8人
 - [Pitagora Meetup 2020-04](meetup/2020/meetup-202004)
