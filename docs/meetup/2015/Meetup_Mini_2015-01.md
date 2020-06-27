@@ -1,10 +1,3 @@
----
-title: Meetup Mini 2015-01
-permalink: /Meetup_Mini_2015-01/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt; [Event](/Event "wikilink") &gt;&gt;
-
 ### 主旨
 
 1.  ツールやワークフローを持ち寄って、次のバージョンのImageに加える [（図）](http://www.pitagora-galaxy.org/_/rsrc/1416890873801/about/about_overview.png)
@@ -80,4 +73,3 @@ permalink: /Meetup_Mini_2015-01/
 -   芳村さん（理研BiT）
 -   新海さん（産総研）
 -   斉藤さん（産総研）
-

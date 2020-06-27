@@ -1,10 +1,3 @@
----
-title: Meetup Mini 2015-02
-permalink: /Meetup_Mini_2015-02/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt; [Event](/Event "wikilink") &gt;&gt;
-
 主旨
 ----
 
@@ -176,4 +169,3 @@ permalink: /Meetup_Mini_2015-02/
 -   中岡さん（理研IMS）
 -   Nikosさん（SBI）
 -   長崎さん（遺伝研）
-

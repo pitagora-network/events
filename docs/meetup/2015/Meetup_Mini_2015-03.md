@@ -1,10 +1,3 @@
----
-title: Meetup Mini 2015-03
-permalink: /Meetup_Mini_2015-03/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt; [Events](/Events "wikilink") &gt;&gt;
-
 主旨
 ----
 
