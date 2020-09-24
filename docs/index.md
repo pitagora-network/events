@@ -10,12 +10,13 @@
 
 ### Meetup
 
--   [Pitagora Meetup 2020-09](meetup/2020/meetup-202009)
-    -   2020-09-24 @ フルリモート
+-   [Pitagora Meetup 2020-10](meetup/2020/meetup-202010)
+    -   2020-10-XX @ フルリモート
 
 ### Related Meetings
 
--   *no related meetings announced*
+-   [BioHackathon Europe 2020](https://www.biohackathon-europe.org/)
+    -   9-13 November 2020 @ Virtual
 
 ## Past Events
 
@@ -23,6 +24,8 @@
 
 ### Meetup
 
+-   [Pitagora Meetup 2020-09](meetup/2020/meetup-202009)
+    -   2020-09-24 @ フルリモート, 参加者10人
 -   [Pitagora Meetup 2020-08](meetup/2020/meetup-202008)
     -   2020-08-17 @ フルリモート, 参加者7人
 -   [Pitagora Meetup 2020-07](meetup/2020/meetup-202007)
