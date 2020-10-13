@@ -17,6 +17,7 @@
 
 -   [BioHackathon Europe 2020](https://www.biohackathon-europe.org/)
     -   9-13 November 2020 @ Virtual
+    -   [プログラム日本標準時版](related-events/2020/bh-eu-2020)
 
 ## Past Events
 
