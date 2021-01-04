@@ -11,13 +11,17 @@
 ### Meetup
 
 -   [Pitagora Meetup 2021-01](meetup/2021/meetup-202101)
-    -   2020-12-XX @ フルリモート
+    -   2021-01-25 @ フルリモート
 
 ### Related Meetings
 
--   [BioHackathon Europe 2020](https://www.biohackathon-europe.org/)
-    -   9-13 November 2020 @ Virtual
-    -   [プログラム日本標準時版](related-events/2020/bh-eu-2020)
+- CWL Virtual Miniconference ([registration now open](https://docs.google.com/forms/d/e/1FAIpQLSfls3QLbjqNCn4a0bE8ICjlmza3h93Sq-zV81VC_OxNybSAxA/viewform?edit2=2_ABaOnucEPBvOPi3KhxKkknVdszt9fWvEj0DAK0Le3ZKUxHstP2f2woe47U93R5BNEkSzbtk))
+  - February 8-10, 2021 @ Virtual
+- [Galaxy Community Conference (GCC) 2021](https://www.vibconferences.be/events/gcc2021)
+  - July 5-12, 2021 @ Ghent, Belgium
+- [Bioinformatics Open Source Conference (BOSC) 2021](https://www.open-bio.org/events/bosc-2021/)
+  - `BOSC 2021 will be part of ISMB/ECCB 2021, and will take place July 26-27 or July 28-29, 2021`
+  - [ISMB/ECCB 2021](https://www.iscb.org/ismbeccb2021): July 25-29, 2021 @ Lyon, France
 
 ## Past Events
 
@@ -155,14 +159,17 @@
 
 #### Hackathons
 
--   [BioHackathon 2018 Paris](https://2018.biohackathon-europe.org)
-    -   Paris 2018 November 12th -   16th
--   [BioHackathon 2018](http://2018.biohackathon.org/)
-    -   Matsue, Japan December 9th    -      15th
--   [BioHackathon 2019](http://2019.biohackathon.org)
-    -   Fukuoka, Japan September 1st -   7th
+-   [BioHackathon Europe 2020](https://www.biohackathon-europe.org/)
+    -   9-13 November 2020 @ Virtual
+    -   [プログラム日本標準時版](related-events/2020/bh-eu-2020)
 -   Elixir's [BioHackathon Europe 2019](https://www.biohackathon-europe.org)
     -   Paris 2019 November 18th -   22th
+-   [BioHackathon 2019](http://2019.biohackathon.org)
+    -   Fukuoka, Japan September 1st -   7th
+-   [BioHackathon 2018](http://2018.biohackathon.org/)
+    -   Matsue, Japan December 9th    -      15th
+-   [BioHackathon 2018 Paris](https://2018.biohackathon-europe.org)
+    -   Paris 2018 November 12th -   16th
 
 #### Conferences
 
