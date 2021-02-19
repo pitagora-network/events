@@ -10,13 +10,11 @@
 
 ### Meetup
 
--   [Pitagora Meetup 2021-02](meetup/2021/meetup-202102)
-    -   2021-02-19 @ フルリモート
+-   [Pitagora Meetup 2021-03](meetup/2021/meetup-202103)
+    -   2021-03-11 @ フルリモート
 
 ### Related Meetings
 
-- CWL Virtual Miniconference ([registration now open](https://docs.google.com/forms/d/e/1FAIpQLSfls3QLbjqNCn4a0bE8ICjlmza3h93Sq-zV81VC_OxNybSAxA/viewform?edit2=2_ABaOnucEPBvOPi3KhxKkknVdszt9fWvEj0DAK0Le3ZKUxHstP2f2woe47U93R5BNEkSzbtk))
-  - February 8-10, 2021 @ Virtual
 - [Galaxy Community Conference (GCC) 2021](https://www.vibconferences.be/events/gcc2021)
   - July 5-12, 2021 @ Ghent, Belgium
 - [Bioinformatics Open Source Conference (BOSC) 2021](https://www.open-bio.org/events/bosc-2021/)
@@ -29,6 +27,8 @@
 
 ### Meetup
 
+-   [Pitagora Meetup 2021-02](meetup/2021/meetup-202102)
+    -   2021-02-19 @ フルリモート, 参加者7人
 -   [Pitagora Meetup 2021-01](meetup/2021/meetup-202101)
     -   2021-01-25 @ フルリモート, 参加者7人
 -   [Pitagora Meetup 2020-12](meetup/2020/meetup-202012)
@@ -152,10 +152,10 @@
 
 -   [CWL Meetup Tokyo 2019-03](meetup/2019/cwl-meetup-201903)
     -   2019-03-22 @ 国立情報学研究所
+-   [CWL Workshop Tokyo 2018](workshop/2018/cwl-workshop-tokyo-2018)
+-   [Galaxy Workshop Tokyo 2016](workshop/2016/Galaxy_Workshop_Tokyo_2016)
 -   [Galaxy Workshop Tokyo 2015](workshop/2015/Galaxy_Workshop_Tokyo_2015)
 -   [Galaxy Workshop Mini Tokyo 2015](workshop/2015/Mini_Workshop_2015-01)
--   [Galaxy Workshop Tokyo 2016](workshop/2016/Galaxy_Workshop_Tokyo_2016)
--   [CWL Workshop Tokyo 2018](workshop/2018/cwl-workshop-tokyo-2018)
 
 ### Related Meetings
 
@@ -175,6 +175,8 @@
 
 #### Conferences
 
+- [CWL Virtual Miniconference](https://github.com/common-workflow-language/common-workflow-language/wiki/2021-CWL-Mini-Conference)
+  - February 8-10, 2021 @ Virtual
 -   [Bioinformatics Community Conference 2020 (BOSC x GCC)](https://bcc2020.github.io)
     -   18th -   21st July 2020 **Online Conference**
 -   [IIBMP 2019](https://www.open-bio.org/events/bosc/)
