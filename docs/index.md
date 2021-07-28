@@ -1,4 +1,4 @@
-# Pitagora Network -   Events
+# Pitagora Network - Events
 
 ## ミートアップの過ごし方
 
@@ -10,16 +10,17 @@
 
 ### Meetup
 
--   [Pitagora Meetup 2021-06](meetup/2021/meetup-202106)
-    -   2021-06-16 @ フルリモート
+-   [Pitagora Meetup 2021-08](meetup/2021/meetup-202108)
+    -   2021-08-16 @ フルリモート
+-   [Pitagora Meetup 2021-09](meetup/2021/meetup-202109)
+    -   2021-09-22 @ フルリモート
 
 ### Related Meetings
 
-- [Galaxy Community Conference (GCC) 2021](https://www.vibconferences.be/events/gcc2021)
-  - July 5-12, 2021 @ Ghent, Belgium
-- [Bioinformatics Open Source Conference (BOSC) 2021](https://www.open-bio.org/events/bosc-2021/)
-  - `BOSC 2021 will be part of ISMB/ECCB 2021, and will take place July 26-27 or July 28-29, 2021`
-  - [ISMB/ECCB 2021](https://www.iscb.org/ismbeccb2021): July 25-29, 2021 @ Lyon, France
+-   [国内版バイオハッカソン BH21.8](http://wiki.lifesciencedb.jp/mw/BH21.8)
+    -   23-27 August 2021 @ 青森
+-   [BioHackathon Europe](https://biohackathon-europe.org/)
+    -   8-12 November 2021 @ Barcelona, Spain
 
 ## Past Events
 
@@ -27,6 +28,10 @@
 
 ### Meetup
 
+-   [Pitagora Meetup 2021-07](meetup/2021/meetup-202107)
+    -   2021-07-28 @ フルリモート, 参加者8人
+-   [Pitagora Meetup 2021-06](meetup/2021/meetup-202106)
+    -   2021-06-16 @ フルリモート, 参加者5人
 -   [Pitagora Meetup 2021-05](meetup/2021/meetup-202105)
     -   2021-05-19 @ フルリモート, 参加者9人
 -   [Pitagora Meetup 2021-04](meetup/2021/meetup-202104)
@@ -181,8 +186,13 @@
 
 #### Conferences
 
+- [Bioinformatics Open Source Conference (BOSC) 2021](https://www.open-bio.org/events/bosc-2021/)
+    - `BOSC 2021 will be part of ISMB/ECCB 2021, and will take place July 29-30, 2021`
+    - [ISMB/ECCB 2021](https://www.iscb.org/ismbeccb2021): July 25-29, 2021 @ Lyon, France
+- [Galaxy Community Conference (GCC) 2021](https://www.vibconferences.be/events/gcc2021)
+    - July 5-12, 2021 @ Ghent, Belgium
 - [CWL Virtual Miniconference](https://github.com/common-workflow-language/common-workflow-language/wiki/2021-CWL-Mini-Conference)
-  - February 8-10, 2021 @ Virtual
+    - February 8-10, 2021 @ Virtual
 -   [Bioinformatics Community Conference 2020 (BOSC x GCC)](https://bcc2020.github.io)
     -   18th -   21st July 2020 **Online Conference**
 -   [IIBMP 2019](https://www.open-bio.org/events/bosc/)
