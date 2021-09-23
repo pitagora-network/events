@@ -10,15 +10,15 @@
 
 ### Meetup
 
--   [Pitagora Meetup 2021-08](meetup/2021/meetup-202108)
-    -   2021-08-16 @ フルリモート
--   [Pitagora Meetup 2021-09](meetup/2021/meetup-202109)
-    -   2021-09-22 @ フルリモート
+-   [Pitagora Meetup 2021-10](meetup/2021/meetup-202110)
+    -   2021-10-XX @ フルリモート
+-   [Pitagora Meetup 2021-11](meetup/2021/meetup-202111)
+    -   2021-11-XX @ フルリモート
 
 ### Related Meetings
 
--   [国内版バイオハッカソン BH21.8](http://wiki.lifesciencedb.jp/mw/BH21.8)
-    -   23-27 August 2021 @ 青森
+-   [IIBMP 2021](https://iibmp2021.hamadalab.com/)
+    -   27-29 September 2021 @ Online
 -   [BioHackathon Europe](https://biohackathon-europe.org/)
     -   8-12 November 2021 @ Barcelona, Spain
 
@@ -28,6 +28,10 @@
 
 ### Meetup
 
+-   [Pitagora Meetup 2021-08](meetup/2021/meetup-202108)
+    -   2021-08-16 @ フルリモート, 参加者6人
+-   [Pitagora Meetup 2021-09](meetup/2021/meetup-202109)
+    -   2021-09-22 @ フルリモート, 参加者8人
 -   [Pitagora Meetup 2021-07](meetup/2021/meetup-202107)
     -   2021-07-28 @ フルリモート, 参加者8人
 -   [Pitagora Meetup 2021-06](meetup/2021/meetup-202106)
@@ -172,6 +176,8 @@
 
 #### Hackathons
 
+-   [国内版バイオハッカソン BH21.8](http://wiki.lifesciencedb.jp/mw/BH21.8)
+    -   23-27 August 2021 @ 青森
 -   [BioHackathon Europe 2020](https://www.biohackathon-europe.org/)
     -   9-13 November 2020 @ Virtual
     -   [プログラム日本標準時版](related-events/2020/bh-eu-2020)
