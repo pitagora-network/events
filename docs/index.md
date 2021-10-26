@@ -11,14 +11,12 @@
 ### Meetup
 
 -   [Pitagora Meetup 2021-10](meetup/2021/meetup-202110)
-    -   2021-10-XX @ フルリモート
+    -   2021-10-26 @ フルリモート
 -   [Pitagora Meetup 2021-11](meetup/2021/meetup-202111)
-    -   2021-11-XX @ フルリモート
+    -   2021-11-24 @ ハイブリッド (仮)
 
 ### Related Meetings
 
--   [IIBMP 2021](https://iibmp2021.hamadalab.com/)
-    -   27-29 September 2021 @ Online
 -   [BioHackathon Europe](https://biohackathon-europe.org/)
     -   8-12 November 2021 @ Barcelona, Spain
 
@@ -189,6 +187,8 @@
     -   Matsue, Japan December 9th    -      15th
 -   [BioHackathon 2018 Paris](https://2018.biohackathon-europe.org)
     -   Paris 2018 November 12th -   16th
+-   [IIBMP 2021](https://iibmp2021.hamadalab.com/)
+    -   27-29 September 2021 @ Online
 
 #### Conferences
 
