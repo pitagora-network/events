@@ -10,10 +10,10 @@
 
 ### Meetup
 
--   [Pitagora Meetup 2021-10](meetup/2021/meetup-202110)
-    -   2021-10-26 @ フルリモート
 -   [Pitagora Meetup 2021-11](meetup/2021/meetup-202111)
     -   2021-11-24 @ ハイブリッド (仮)
+-   [Pitagora Meetup 2021-12](meetup/2021/meetup-202112)
+    -   2021-12-09 @ ハイブリッド (仮)
 
 ### Related Meetings
 
@@ -26,6 +26,8 @@
 
 ### Meetup
 
+-   [Pitagora Meetup 2021-10](meetup/2021/meetup-202110)
+    -   2021-10-26 @ フルリモート, 参加者7人
 -   [Pitagora Meetup 2021-08](meetup/2021/meetup-202108)
     -   2021-08-16 @ フルリモート, 参加者6人
 -   [Pitagora Meetup 2021-09](meetup/2021/meetup-202109)
