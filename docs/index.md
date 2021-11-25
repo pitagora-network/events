@@ -10,15 +10,12 @@
 
 ### Meetup
 
--   [Pitagora Meetup 2021-11](meetup/2021/meetup-202111)
-    -   2021-11-24 @ ハイブリッド (仮)
 -   [Pitagora Meetup 2021-12](meetup/2021/meetup-202112)
-    -   2021-12-09 @ ハイブリッド (仮)
+    -   2021-12-09 @ ハイブリッド
 
 ### Related Meetings
 
--   [BioHackathon Europe](https://biohackathon-europe.org/)
-    -   8-12 November 2021 @ Barcelona, Spain
+- No related meetings announced
 
 ## Past Events
 
@@ -26,6 +23,8 @@
 
 ### Meetup
 
+-   [Pitagora Meetup 2021-11](meetup/2021/meetup-202111)
+    -   2021-11-24 @ フルリモート, 参加者5人
 -   [Pitagora Meetup 2021-10](meetup/2021/meetup-202110)
     -   2021-10-26 @ フルリモート, 参加者7人
 -   [Pitagora Meetup 2021-08](meetup/2021/meetup-202108)
@@ -176,6 +175,8 @@
 
 #### Hackathons
 
+-   [BioHackathon Europe](https://biohackathon-europe.org/)
+    -   8-12 November 2021 @ Barcelona, Spain
 -   [国内版バイオハッカソン BH21.8](http://wiki.lifesciencedb.jp/mw/BH21.8)
     -   23-27 August 2021 @ 青森
 -   [BioHackathon Europe 2020](https://www.biohackathon-europe.org/)
@@ -189,11 +190,11 @@
     -   Matsue, Japan December 9th    -      15th
 -   [BioHackathon 2018 Paris](https://2018.biohackathon-europe.org)
     -   Paris 2018 November 12th -   16th
--   [IIBMP 2021](https://iibmp2021.hamadalab.com/)
-    -   27-29 September 2021 @ Online
 
 #### Conferences
 
+-   [IIBMP 2021](https://iibmp2021.hamadalab.com/)
+    -   27-29 September 2021 @ Online
 - [Bioinformatics Open Source Conference (BOSC) 2021](https://www.open-bio.org/events/bosc-2021/)
     - `BOSC 2021 will be part of ISMB/ECCB 2021, and will take place July 29-30, 2021`
     - [ISMB/ECCB 2021](https://www.iscb.org/ismbeccb2021): July 25-29, 2021 @ Lyon, France
