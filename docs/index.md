@@ -12,10 +12,8 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 ### Meetup
 
--   [Pitagora Meetup 2022-01](meetup/2021/meetup-202201)
-    -   2021-01-06 @ フルリモート
 -   [Pitagora Meetup 2022-02](meetup/2021/meetup-202202)
-    -   2021-02-03 @ フルリモート
+    -   2021-02-03 @ ハイブリッド (仮)
 
 ### Related Meetings
 
@@ -27,6 +25,8 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 ### Meetup
 
+-   [Pitagora Meetup 2022-01](meetup/2021/meetup-202201)
+    -   2021-01-06 @ フルリモート, 参加者8人
 -   [Pitagora Meetup 2021-12](meetup/2021/meetup-202112)
     -   2021-12-09 @ ハイブリッド, 参加者10人
 -   [Pitagora Meetup 2021-11](meetup/2021/meetup-202111)
