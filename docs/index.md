@@ -12,16 +12,21 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 ### Meetup
 
--   [Pitagora Meetup 2022-03](meetup/2022/meetup-202203)
-    -   2021-03-03 @ フルリモート
+-   [Pitagora Meetup 2022-04](meetup/2022/meetup-202204)
+    -   2021-04-07 @ フルリモート
+-   [Pitagora Meetup 2022-05](meetup/2022/meetup-202205)
+    -   2021-05-12 @ フルリモート (仮)
 
 ### Related Meetings
 
-- [2022 Common Workflow Language Conference](https://cwl.discourse.group/t/2022-cwl-conference-feb-28-mar-4-2022/519)
-    - Online
-    - Monday, February 28 23:00 - Tuesday, March 1 03:00 Japanese Standard Time
-    - Wednesday, March 2 16:00 - 20:00 Japanese Standard Time
-    - Friday, March 4 09:00 - 13:00 Japanese Standard Time
+-   [BOSC 2022](https://www.open-bio.org/events/bosc-2022/)
+    -   2022-07-13 - 2022-07-14 @ Madison, Wisconsin, USA, and simultaneously online
+-   [Galaxy Community Conference](https://galaxyproject.org/events/gcc2022/)
+    -   2022-07-17 - 2022-07-23 @ Minneapolis, Minnesota, USA
+-   [The 14th DBCLS BioHackathon](http://biohackathon.org/)
+    -   2022-XX-XX @ XX
+-   [BioHackathon Europe 2022](https://biohackathon-europe.org/)
+    -   2022-11-07 - 2022-11-11 @ Paris with remote access
 
 ## Past Events
 
@@ -29,6 +34,8 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 ### Meetup
 
+-   [Pitagora Meetup 2022-03](meetup/2022/meetup-202203)
+    -   2021-03-03 @ フルリモート
 -   [Pitagora Meetup 2022-02](meetup/2022/meetup-202202)
     -   2021-02-03 @ フルリモート, 参加者7人
 -   [Pitagora Meetup 2022-01](meetup/2022/meetup-202201)
@@ -205,6 +212,11 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 #### Conferences
 
+- [2022 Common Workflow Language Conference](https://cwl.discourse.group/t/2022-cwl-conference-feb-28-mar-4-2022/519)
+    - Online
+    - Monday, February 28 23:00 - Tuesday, March 1 03:00 Japanese Standard Time
+    - Wednesday, March 2 16:00 - 20:00 Japanese Standard Time
+    - Friday, March 4 09:00 - 13:00 Japanese Standard Time
 -   [IIBMP 2021](https://iibmp2021.hamadalab.com/)
     -   27-29 September 2021 @ Online
 - [Bioinformatics Open Source Conference (BOSC) 2021](https://www.open-bio.org/events/bosc-2021/)
