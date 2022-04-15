@@ -13,8 +13,8 @@ One-day hackathon to learn how to manage workflows with [Sapporo](https://github
 
 ## Venue
 
-- Shinagawa1930, Kitashinagawa, Shinagawa, Tokyo
-  - https://shinagawa1930.jp/access
+- [shinagawa1930.jp](https://shinagawa1930.jp/access)
+  - Kitashinagawa, Shinagawa, Tokyo
 
 ## Program
 
