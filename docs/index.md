@@ -12,8 +12,8 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 ### Meetup
 
--   [Pitagora Meetup 2022-06](meetup/2022/meetup-202206)
-    -   2022-06-02 @ ハイブリッド (慶應義塾大学SFC研究所　みらいのまちをつくる・ラボ)
+-   [Pitagora Meetup 2022-06](meetup/2022/meetup-202207)
+    -   2022-07-07 @ ハイブリッド (慶應義塾大学SFC研究所　みらいのまちをつくる・ラボ)
 
 ### Related Meetings
 
@@ -31,6 +31,8 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 過去に開催されたイベントです。
 
 ### Meetup
+-   [Pitagora Meetup 2022-06](meetup/2022/meetup-202206)
+    -   2022-06-02 @ ハイブリッド (慶應義塾大学SFC研究所　みらいのまちをつくる・ラボ), 参加者9人
 -   [Pitagora Meetup 2022-05](meetup/2022/meetup-202205)
     -   2022-05-12 @ ハイブリッド (慶應義塾大学SFC研究所　みらいのまちをつくる・ラボ), 参加者7人
 -   [Pitagora Meetup 2022-04](meetup/2022/meetup-202204)
