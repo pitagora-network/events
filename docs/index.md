@@ -12,7 +12,7 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 ### Meetup
 
--   [Pitagora Meetup 2022-06](meetup/2022/meetup-202207)
+-   [Pitagora Meetup 2022-07](meetup/2022/meetup-202207)
     -   2022-07-07 @ ハイブリッド (慶應義塾大学SFC研究所　みらいのまちをつくる・ラボ)
 
 ### Related Meetings
@@ -21,8 +21,8 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
     -   2022-07-13 - 2022-07-14 @ Madison, Wisconsin, USA, and simultaneously online
 -   [Galaxy Community Conference](https://galaxyproject.org/events/gcc2022/)
     -   2022-07-17 - 2022-07-23 @ Minneapolis, Minnesota, USA
--   [The 14th DBCLS BioHackathon](http://biohackathon.org/)
-    -   2022-XX-XX @ XX
+-   [DBCLS BioHackathon: Japan edition](https://wiki.lifesciencedb.jp/mw/BH22.9)
+    -   2022-09-05 - 2022-09-09 @ Aki, Kochi, Japan
 -   [BioHackathon Europe 2022](https://biohackathon-europe.org/)
     -   2022-11-07 - 2022-11-11 @ Paris with remote access
 
