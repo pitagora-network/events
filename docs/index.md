@@ -12,17 +12,13 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 ### Meetup
 
-- [Pitagora Meetup 2022-11](meetup/2022/meetup-202211)
-  - 2022-11-06 @ ハイブリッド (仮)
-- [Pitagora Meetup 2022-12](meetup/2022/meetup-202212)
-  - 2022-12-01 @ ハイブリッド (仮)
+- [Pitagora Meetup 2023-02](meetup/2023/meetup-202302)
+  - 2023-02-02 @ ハイブリッド (仮)
+- [Pitagora Meetup 2023-03](meetup/2023/meetup-202303)
+  - 2023-03-02 @ ハイブリッド (仮)
 
 ### Related Meetings
 
-- [BioHackathon Europe 2022](https://biohackathon-europe.org/)
-  - 2022-11-07 - 2022-11-11 @ Paris with remote access
-- [1st BioHackathon Germany](https://www.denbi.de/de-nbi-events/1454-biohackathon-germany)
-  - 2022-12-12 - 2022-12-16 @ Lutherstadt Wittenberg, Germany
 - [BioHackathon EMNA 2023](https://wti.kaust.edu.sa/SoD/bio_hack_2023)
   - 2023-02-07 - 2023-02-11 @ King Abdullah University, Saudi Arabia
 
@@ -31,6 +27,13 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 過去に開催されたイベントです。
 
 ### Meetup
+
+- [Pitagora Meetup 2023-01](meetup/2023/meetup-202301)
+  - 2023-01-12 @ ハイブリッド, 参加者6人
+- [Pitagora Meetup 2022-12](meetup/2022/meetup-202212)
+  - 2022-12-01 @ ハイブリッド, 参加者8人
+- [Pitagora Meetup 2022-11](meetup/2022/meetup-202211)
+  - 2022-11-06 @ ハイブリッド, 参加者10人
 - [Pitagora Meetup 2022-10](meetup/2022/meetup-202210)
   - 2022-10-06 @ オンライン, 参加者9人
 - [Pitagora Meetup 2022-09](meetup/2022/meetup-202209)
@@ -205,6 +208,10 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 #### Hackathons
 
+- [1st BioHackathon Germany](https://www.denbi.de/de-nbi-events/1454-biohackathon-germany)
+  - 2022-12-12 - 2022-12-16 @ Lutherstadt Wittenberg, Germany
+- [BioHackathon Europe 2022](https://biohackathon-europe.org/)
+  - 2022-11-07 - 2022-11-11 @ Paris with remote access
 - [DBCLS BioHackathon: Japan edition](https://wiki.lifesciencedb.jp/mw/BH22.9)
   - 2022-09-05 - 2022-09-09 @ Aki, Kochi, Japan
 - [Sapporo/Yevis one-day hackathon](workshop/2022/sapporo-hackathon-01.md)
