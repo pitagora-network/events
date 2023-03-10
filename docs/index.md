@@ -12,15 +12,15 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 ### Meetup
 
-- [Pitagora Meetup 2023-02](meetup/2023/meetup-202302)
-  - 2023-02-02 @ ハイブリッド (仮)
-- [Pitagora Meetup 2023-03](meetup/2023/meetup-202303)
-  - 2023-03-02 @ ハイブリッド (仮)
+- [Pitagora Meetup 2023-04](meetup/2023/meetup-202304)
+  - 2023-04-06 @ ハイブリッド (仮)
 
 ### Related Meetings
 
-- [BioHackathon EMNA 2023](https://wti.kaust.edu.sa/SoD/bio_hack_2023)
-  - 2023-02-07 - 2023-02-11 @ King Abdullah University, Saudi Arabia
+- [DBCLS BioHackathon 2023](https://2023.biohackathon.org/)
+  - [Participation proposal](https://2023.biohackathon.org/call-for-participants) deadline: 31st March
+- [BioHackathon-Europe 2023](https://biohackathon-europe.org/)
+  - [Project proposal submission](https://biohackathon-europe.org/projects.html) deadline: 10th April
 
 ## Past Events
 
@@ -28,6 +28,10 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 ### Meetup
 
+- [Pitagora Meetup 2023-03](meetup/2023/meetup-202303)
+  - 2023-03-02 @ ハイブリッド, 参加者9人
+- [Pitagora Meetup 2023-02](meetup/2023/meetup-202302)
+  - 2023-02-02 @ ハイブリッド, 参加者7人
 - [Pitagora Meetup 2023-01](meetup/2023/meetup-202301)
   - 2023-01-12 @ ハイブリッド, 参加者6人
 - [Pitagora Meetup 2022-12](meetup/2022/meetup-202212)
@@ -208,6 +212,8 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 #### Hackathons
 
+- [BioHackathon EMNA 2023](https://wti.kaust.edu.sa/SoD/bio_hack_2023)
+  - 2023-02-07 - 2023-02-11 @ King Abdullah University, Saudi Arabia
 - [1st BioHackathon Germany](https://www.denbi.de/de-nbi-events/1454-biohackathon-germany)
   - 2022-12-12 - 2022-12-16 @ Lutherstadt Wittenberg, Germany
 - [BioHackathon Europe 2022](https://biohackathon-europe.org/)
