@@ -12,15 +12,15 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 ### Meetup
 
-- [Pitagora Meetup 2023-04](meetup/2023/meetup-202304)
-  - 2023-04-06 @ ハイブリッド (仮)
+- [Pitagora Meetup 2023-06](meetup/2023/meetup-202306)
+  - 2023-06-01 @ ハイブリッド (仮)
 
 ### Related Meetings
 
 - [DBCLS BioHackathon 2023](https://2023.biohackathon.org/)
-  - [Participation proposal](https://2023.biohackathon.org/call-for-participants) deadline: 31st March
+  - 25th June (Sun) - 1st July (Sat), 2023
 - [BioHackathon-Europe 2023](https://biohackathon-europe.org/)
-  - [Project proposal submission](https://biohackathon-europe.org/projects.html) deadline: 10th April
+  - 30th October (Mon) - 3rd November (Fri), 2023
 
 ## Past Events
 
@@ -28,10 +28,14 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 ### Meetup
 
+- [Pitagora Meetup 2023-05](meetup/2023/meetup-202305)
+  - 2023-05-12 @ オンライン, 参加者6人
+- [Pitagora Meetup 2023-04](meetup/2023/meetup-202304)
+  - 2023-04-06 @ オンライン, 参加者8人
 - [Pitagora Meetup 2023-03](meetup/2023/meetup-202303)
-  - 2023-03-02 @ ハイブリッド, 参加者9人
+  - 2023-03-02 @ オンライン, 参加者9人
 - [Pitagora Meetup 2023-02](meetup/2023/meetup-202302)
-  - 2023-02-02 @ ハイブリッド, 参加者7人
+  - 2023-02-02 @ オンライン, 参加者7人
 - [Pitagora Meetup 2023-01](meetup/2023/meetup-202301)
   - 2023-01-12 @ ハイブリッド, 参加者6人
 - [Pitagora Meetup 2022-12](meetup/2022/meetup-202212)
