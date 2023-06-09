@@ -10,10 +10,15 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 今後開催予定のイベントです。日時や場所は変更になる可能性がありますのでご注意ください。
 
+### Seminar
+
+- [Common Workflow Language: By Michael Crusoe](workshop/2023/cwl-seminar)
+  - 2023-07-05 @ Chiba University
+
 ### Meetup
 
-- [Pitagora Meetup 2023-06](meetup/2023/meetup-202306)
-  - 2023-06-01 @ ハイブリッド (仮)
+- [Pitagora Meetup 2023-07](meetup/2023/meetup-202307)
+  - 2023-07-05 @ ハイブリッド
 
 ### Related Meetings
 
@@ -28,6 +33,8 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 ### Meetup
 
+- [Pitagora Meetup 2023-06](meetup/2023/meetup-202306)
+  - 2023-06-01 @ ハイブリッド, 参加者5名
 - [Pitagora Meetup 2023-05](meetup/2023/meetup-202305)
   - 2023-05-12 @ オンライン, 参加者6人
 - [Pitagora Meetup 2023-04](meetup/2023/meetup-202304)
