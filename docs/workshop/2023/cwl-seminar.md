@@ -21,4 +21,4 @@ Crusoe 氏は [Common Workflow Language プロジェクト](https://www.commonwl
 
 ### 主催・世話役
 
-千葉大学 国際高騰研究基幹 (IAAR) / 大学院医学院 AI医学 大田達郎 (tazro.ohta at chiba-u.jp)
+千葉大学 国際高等研究基幹 (IAAR) / 大学院医学院 AI医学 大田達郎 (tazro.ohta at chiba-u.jp)
