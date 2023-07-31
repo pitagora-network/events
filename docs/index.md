@@ -10,22 +10,20 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 今後開催予定のイベントです。日時や場所は変更になる可能性がありますのでご注意ください。
 
-### Seminar
-
-- [Common Workflow Language: By Michael Crusoe](workshop/2023/cwl-seminar)
-  - 2023-07-05 @ Chiba University
-
 ### Meetup
 
-- [Pitagora Meetup 2023-07](meetup/2023/meetup-202307)
-  - 2023-07-05 @ ハイブリッド
+- [Pitagora Meetup 2023-08](meetup/2023/meetup-202308)
+  - 2023-08-03 @ オンライン
+- [Pitagora Meetup 2023-09](meetup/2023/meetup-202309)
+  - 2023-09-14 @ ハイブリッド (仮)
 
 ### Related Meetings
 
-- [DBCLS BioHackathon 2023](https://2023.biohackathon.org/)
-  - 25th June (Sun) - 1st July (Sat), 2023
-- [BioHackathon-Europe 2023](https://biohackathon-europe.org/)
-  - 30th October (Mon) - 3rd November (Fri), 2023
+- [国内版バイオハッカソン BH23.9](https://github.com/dbcls/bh23.9/wiki)
+  - 25th September (Mon) - 29th September (Fri), 2023 @ Wakayama, Japan
+  - [Registration opens](https://tinyurl.com/bh23-9-regist)
+- [BioHackathon-Europe 2023](https://biohackathon-europe.org/) (Registration closed)
+  - 30th October (Mon) - 3rd November (Fri), 2023 @ Barcelona
 
 ## Past Events
 
@@ -33,6 +31,8 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 ### Meetup
 
+- [Pitagora Meetup 2023-07](meetup/2023/meetup-202307)
+  - 2023-07-05 @ ハイブリッド, 参加者10名
 - [Pitagora Meetup 2023-06](meetup/2023/meetup-202306)
   - 2023-06-01 @ ハイブリッド, 参加者5名
 - [Pitagora Meetup 2023-05](meetup/2023/meetup-202305)
@@ -223,6 +223,8 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 #### Hackathons
 
+- [DBCLS BioHackathon 2023](https://2023.biohackathon.org/)
+  - 25th June (Sun) - 1st July (Sat), 2023
 - [BioHackathon EMNA 2023](https://wti.kaust.edu.sa/SoD/bio_hack_2023)
   - 2023-02-07 - 2023-02-11 @ King Abdullah University, Saudi Arabia
 - [1st BioHackathon Germany](https://www.denbi.de/de-nbi-events/1454-biohackathon-germany)
@@ -301,3 +303,8 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
   - オープン・サイエンス・アワード 2014 ソフトウェア部門で3位に入賞しました
 - [第37回日本分子生物学会年会](http://www.aeplan.co.jp/mbsj2014/), 2014-11-27
   - ポスター 3P-0969「Galaxyを迅速に活用するための仮想環境の構築」を発表しました
+
+### Seminar
+
+- [Common Workflow Language: By Michael Crusoe](workshop/2023/cwl-seminar)
+  - 2023-07-05 @ Chiba University
