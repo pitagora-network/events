@@ -12,16 +12,19 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 ### Meetup
 
-- [Pitagora Meetup 2023-08](meetup/2023/meetup-202308)
-  - 2023-08-03 @ オンライン
-- [Pitagora Meetup 2023-09](meetup/2023/meetup-202309)
-  - 2023-09-14 @ ハイブリッド (仮)
+- [Pitagora Meetup 2023-11](meetup/2023/meetup-202311)
+  - 2023-11-02
+- [Pitagora Meetup 2023-12](meetup/2023/meetup-202312)
+  - 2023-12-07
+- [Pitagora Meetup 2024-01](meetup/2023/meetup-202301)
+  - 2024-01-11
+- [Pitagora Meetup 2024-02](meetup/2023/meetup-202302)
+  - 2024-02-01
+- [Pitagora Meetup 2024-03](meetup/2023/meetup-202303)
+  - 2024-03-07
 
 ### Related Meetings
 
-- [国内版バイオハッカソン BH23.9](https://github.com/dbcls/bh23.9/wiki)
-  - 25th September (Mon) - 29th September (Fri), 2023 @ Wakayama, Japan
-  - [Registration opens](https://tinyurl.com/bh23-9-regist)
 - [BioHackathon-Europe 2023](https://biohackathon-europe.org/) (Registration closed)
   - 30th October (Mon) - 3rd November (Fri), 2023 @ Barcelona
 
@@ -31,6 +34,12 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 ### Meetup
 
+- [Pitagora Meetup 2023-10](meetup/2023/meetup-202310)
+  - 2023-10-5 @ オンライン, 参加者8名
+- [Pitagora Meetup 2023-09](meetup/2023/meetup-202309)
+  - 2023-09-14 @ ハイブリッド, 参加者7名
+- [Pitagora Meetup 2023-08](meetup/2023/meetup-202308)
+  - 2023-08-03 @ オンライン, 参加者7名
 - [Pitagora Meetup 2023-07](meetup/2023/meetup-202307)
   - 2023-07-05 @ ハイブリッド, 参加者10名
 - [Pitagora Meetup 2023-06](meetup/2023/meetup-202306)
@@ -223,6 +232,8 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 #### Hackathons
 
+- [国内版バイオハッカソン BH23.9](https://github.com/dbcls/bh23.9/wiki)
+  - 25th September (Mon) - 29th September (Fri), 2023 @ Wakayama, Japan
 - [DBCLS BioHackathon 2023](https://2023.biohackathon.org/)
   - 25th June (Sun) - 1st July (Sat), 2023
 - [BioHackathon EMNA 2023](https://wti.kaust.edu.sa/SoD/bio_hack_2023)
