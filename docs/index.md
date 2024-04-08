@@ -12,12 +12,12 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 ### Meetup
 
-- [Pitagora Meetup 2024-01](meetup/2024/meetup-202401)
-  - 2024-01-11 @ ハイブリッド
-- [Pitagora Meetup 2024-02](meetup/2024/meetup-202402)
-  - 2024-02-01
-- [Pitagora Meetup 2024-03](meetup/2024/meetup-202403)
-  - 2024-03-07
+- [Pitagora Meetup 2024-04](meetup/2024/meetup-202404)
+  - 2024-04-11 @ アマゾン ウェブ サービス ジャパン合同会社
+- [Pitagora Meetup 2024-05](meetup/2024/meetup-202405)
+  - 2024-05-02 @ ハイブリッド
+- [Pitagora Meetup 2024-06](meetup/2024/meetup-202406)
+  - 2024-06-06 @ ハイブリッド
 
 ### Related Meetings
 
@@ -29,6 +29,12 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 ### Meetup
 
+- [Pitagora Meetup 2024-03](meetup/2024/meetup-202403)
+  - 2024-03-07 @ ハイブリッド, 参加者7名
+- [Pitagora Meetup 2024-02](meetup/2024/meetup-202402)
+  - 2024-02-01 @ ハイブリッド, 参加者6名
+- [Pitagora Meetup 2024-01](meetup/2024/meetup-202401)
+  - 2024-01-11 @ ハイブリッド, 参加者8名
 - [Pitagora Meetup 2023-12](meetup/2023/meetup-202312)
   - 2023-12-07 @ ハイブリッド, 参加者6名
 - [Pitagora Meetup 2023-11](meetup/2023/meetup-202311)
@@ -259,7 +265,7 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 - [BioHackathon 2019](http://2019.biohackathon.org)
   - Fukuoka, Japan September 1st - 7th
 - [BioHackathon 2018](http://2018.biohackathon.org/)
-  - Matsue, Japan December 9th    -    15th
+  - Matsue, Japan December 9th - 15th
 - [BioHackathon 2018 Paris](https://2018.biohackathon-europe.org)
   - Paris 2018 November 12th - 16th
 
