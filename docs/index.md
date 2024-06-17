@@ -30,11 +30,11 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 ### Meetup
 
 - [Pitagora Meetup 2024-06](meetup/2024/meetup-202406)
-  - 2024-06-13 @ ハイブリッド
+  - 2024-06-13 @ ハイブリッド, 参加者6名
 - [Pitagora Meetup 2024-05](meetup/2024/meetup-202405)
-  - 2024-05-09 @ ハイブリッド
+  - 2024-05-09 @ ハイブリッド, 参加者5名
 - [Pitagora Meetup 2024-04](meetup/2024/meetup-202404)
-  - 2024-04-11 @ アマゾン ウェブ サービス ジャパン合同会社
+  - 2024-04-11 @ アマゾン ウェブ サービス ジャパン合同会社, 参加者14名
 - [Pitagora Meetup 2024-03](meetup/2024/meetup-202403)
   - 2024-03-07 @ ハイブリッド, 参加者7名
 - [Pitagora Meetup 2024-02](meetup/2024/meetup-202402)
