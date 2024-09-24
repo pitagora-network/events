@@ -32,7 +32,7 @@ Contact: tazro.ohta at chiba-u.jp
 <script>
 document.addEventListener("DOMContentLoaded", function() {
     // Select the specific <h1> element with the <a> tag containing the link to "https://medhackathon.github.io/2025/"
-    var elementToRemove = document.querySelector('h1 a[href="https://medhackathon.github.io/2025/"]');
+    var elementToRemove = document.querySelector('h1 a[href="https://pitagora-network.org/events/"]');
     if (elementToRemove) {
         var parent = elementToRemove.closest('h1'); // Find the closest <h1> ancestor
         if (parent) {
