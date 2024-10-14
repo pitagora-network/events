@@ -14,7 +14,7 @@ National Cancer Center Hospital（Tsukiji Campus）Research building 13F Room 13
 
 ### 演者 / Speaker
 
-![](./images/sehrish.jpg)
+![](./images/sehrish.small.jpg)
 
 **[Dr. Sehrish Kanwal](https://findanexpert.unimelb.edu.au/profile/685501-sehrish-kanwal)**
 Senior Bioinformatician, University of Melbourne Centre for Cancer Research
@@ -33,7 +33,6 @@ Contact: tazro.ohta at chiba-u.jp
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-    // Select the specific <h1> element with the <a> tag containing the link to "https://medhackathon.github.io/2025/"
     var elementToRemove = document.querySelector('h1 a[href="https://pitagora-network.org/events/"]');
     if (elementToRemove) {
         var parent = elementToRemove.closest('h1'); // Find the closest <h1> ancestor

@@ -339,3 +339,15 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 - [Common Workflow Language: By Michael Crusoe](workshop/2023/cwl-seminar)
   - 2023-07-05 @ Chiba University
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    var elementToRemove = document.querySelector('h1 a[href="https://pitagora-network.org/events/"]');
+    if (elementToRemove) {
+        var parent = elementToRemove.closest('h1'); // Find the closest <h1> ancestor
+        if (parent) {
+            parent.remove(); // Remove the <h1> element
+        }
+    }
+});
+</script>
