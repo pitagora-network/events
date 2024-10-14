@@ -1,3 +1,21 @@
+<style>
+.column-left{
+  float: left;
+  width: 47.5%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 47.5%;
+  text-align: left;
+}
+.column-one{
+  float: left;
+  width: 100%;
+  text-align: left;
+}
+</style>
+
 # セミナー: Dr. Sehrish Kanwal
 
 メルボルン大学でバイオインフォマティクス研究を行う Sehrish Kanwal 博士に、オープンサイエンス、スケーラブルなインフラストラクチャ、変革的なバイオインフォマティクスを通じた精密オンコロジーの推進について話していただきます。
@@ -14,7 +32,12 @@ National Cancer Center Hospital（Tsukiji Campus）Research building 13F Room 13
 
 ### 演者 / Speaker
 
+<div class="column-left">
+
 ![](./images/sehrish.small.jpg)
+
+</div>
+<div class="column-right">
 
 **[Dr. Sehrish Kanwal](https://findanexpert.unimelb.edu.au/profile/685501-sehrish-kanwal)**
 Senior Bioinformatician, University of Melbourne Centre for Cancer Research
@@ -24,6 +47,8 @@ Senior Bioinformatician, University of Melbourne Centre for Cancer Research
 
 > オープンサイエンス、スケーラブルなインフラ、革新的なバイオインフォマティクスによるがん個別化治療の実現
 > Sehrish Kanwal博士は、オーストラリアのメルボルン大学がん研究センターの上級バイオインフォマティシャンであり、がんゲノミクスと臨床データ分析を専門としています。彼女の研究は、再現性、拡張性、データ共有における課題に対処しながら、オミックスデータ分析のための臨床パイプラインの開発に重点を置いています。Kanwal博士は、分散リソース上での大規模なバイオインフォマティクス分析の確立に先駆的な取り組みを行い、臨床および精密腫瘍学の現場における「オミックス」ワークフローの将来的な採用に向けた障害の克服において、先見性のあるリーダーシップを発揮しました。講演では、ガン患者の遺伝子変異や個人に合わせたゲノム変化を研究者が調査できるようにする最先端のバイオインフォマティクスツールの開発における経験を共有します。これらの革新的なソリューションは、個別化医療における予後、患者管理、健康結果の改善を目指しています。また、分散リソースにおける大規模なバイオインフォマティクス分析の確立におけるリーダーシップの役割や、個別化医療における「オミックス」ワークフローの臨床導入を促進する効果的な戦略の必要性を論じます。Kanwal博士は、男女平等とSTEM分野における女性の地位向上を熱心に提唱しています。さらに、The Carpentries、rOpenSci、Journal of Open Source Softwareなどのイニシアティブを通じて培われたオープンサイエンスの実践が持つ変革の力について掘り下げ、科学における透明性、コラボレーション、再現性の向上に与える影響についても言及します。
+
+</div>
 
 ### 主催・世話役 / Organizer
 
