@@ -8,11 +8,13 @@
 
 ### 場所 / Venue
 
-国立がん研究センター 築地キャンパス 研究棟13F 会議室13AB  
-National Cancer Center Hospital（Tsukiji Campus）Research building 13F Room 13AB  
+国立がん研究センター 築地キャンパス 研究棟13F 会議室13AB
+National Cancer Center Hospital（Tsukiji Campus）Research building 13F Room 13AB
 ([MAP](https://www.ncc.go.jp/jp/about/access/tsukiji.html))
 
 ### 演者 / Speaker
+
+![](./images/sehrish.jpg)
 
 **[Dr. Sehrish Kanwal](https://findanexpert.unimelb.edu.au/profile/685501-sehrish-kanwal)**
 Senior Bioinformatician, University of Melbourne Centre for Cancer Research
@@ -25,8 +27,8 @@ Senior Bioinformatician, University of Melbourne Centre for Cancer Research
 
 ### 主催・世話役 / Organizer
 
-千葉大学 国際高等研究基幹 (IAAR) / 大学院医学院 AI医学 大田達郎  
-Tazro Ohta, IAAR / Graduate School of Medicine, Chiba University  
+千葉大学 国際高等研究基幹 (IAAR) / 大学院医学院 AI医学 大田達郎
+Tazro Ohta, IAAR / Graduate School of Medicine, Chiba University
 Contact: tazro.ohta at chiba-u.jp
 
 <script>
