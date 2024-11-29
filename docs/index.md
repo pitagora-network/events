@@ -12,15 +12,12 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 ### Meetup
 
-- [Pitagora Meetup 2024-11](meetup/2024/meetup-202411)
-  - 2024-11-15 @ ハイブリッド
 - [Pitagora Meetup 2024-12](meetup/2024/meetup-202412)
   - 2024-12-05 @ ハイブリッド
 
 ### Related Meetings
 
-- [セミナー: Dr. Sehrish Kanwal](workshop/2024/dr-kanwal-seminer)
-  - 2024-10-20 10AM- @ 国立がん研究センター
+- TBA
 
 ## Past Events
 
@@ -28,6 +25,8 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 ### Meetup
 
+- [Pitagora Meetup 2024-11](meetup/2024/meetup-202411)
+  - 2024-11-15 @ ハイブリッド, 参加者6名
 - [Pitagora Meetup 2024-10](meetup/2024/meetup-202410)
   - 2024-10-04 @ ハイブリッド, 参加者9名
 - [Pitagora Meetup 2024-09](meetup/2024/meetup-202409)
@@ -337,8 +336,11 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 ### Seminar
 
+- [セミナー: Dr. Sehrish Kanwal](workshop/2024/dr-kanwal-seminer)
+  - 2024-10-20 10AM- @ 国立がん研究センター
 - [Common Workflow Language: By Michael Crusoe](workshop/2023/cwl-seminar)
   - 2023-07-05 @ Chiba University
+
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
