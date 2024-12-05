@@ -21,8 +21,7 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 ### Related Meetings
 
-- [セミナー: Dr. Sehrish Kanwal](workshop/2024/dr-kanwal-seminer)
-  - 2024-10-20 10AM- @ 国立がん研究センター
+- TBA
 
 ## Past Events
 
@@ -343,8 +342,11 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 ### Seminar
 
+- [セミナー: Dr. Sehrish Kanwal](workshop/2024/dr-kanwal-seminer)
+  - 2024-10-20 10AM- @ 国立がん研究センター
 - [Common Workflow Language: By Michael Crusoe](workshop/2023/cwl-seminar)
   - 2023-07-05 @ Chiba University
+
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
