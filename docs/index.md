@@ -12,12 +12,12 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 ### Meetup
 
-- [Pitagora Meetup 2025-07](meetup/2025/meetup-202507)
-  - 2025-07-03 @ ハイブリッド
-- [Pitagora Meetup 2025-08](meetup/2025/meetup-202508)
-  - 2025-08-01 @ ハイブリッド
-- [Pitagora Meetup 2025-09](meetup/2025/meetup-202509)
-  - 2025-09-04 @ ハイブリッド
+- [Pitagora Meetup 2026-01](meetup/2026/meetup-202601)
+  - 2026-01-08 @ ハイブリッド
+- [Pitagora Meetup 2026-02](meetup/2026/meetup-202602)
+  - 2026-02-06 @ ハイブリッド
+- [Pitagora Meetup 2026-03](meetup/2026/meetup-202603)
+  - 2026-03-13 @ ハイブリッド
 
 ### Related Meetings
 
@@ -30,6 +30,18 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 ### Meetup
 
+- [Pitagora Meetup 2025-12](meetup/2025/meetup-202512)
+  - 2025-12-05 @ ハイブリッド, 参加者4名
+- [Pitagora Meetup 2025-11](meetup/2025/meetup-202511)
+  - 2025-11-07 @ ハイブリッド, 参加者6名
+- [Pitagora Meetup 2025-10](meetup/2025/meetup-202510)
+  - 2025-10-03 @ ハイブリッド, 参加者4名
+- [Pitagora Meetup 2025-09](meetup/2025/meetup-202509)
+  - 2025-09-04 @ ハイブリッド, 参加者6名
+- [Pitagora Meetup 2025-08](meetup/2025/meetup-202508)
+  - 2025-08-01 @ 八王子某所, 参加者5名
+- [Pitagora Meetup 2025-07](meetup/2025/meetup-202507)
+  - 2025-07-03 @ ハイブリッド, 参加者5名
 - [Pitagora Meetup 2025-06](meetup/2025/meetup-202506)
   - 2025-06-06 @ ハイブリッド, 参加者7名
 - [Pitagora Meetup 2025-05](meetup/2025/meetup-202505)
