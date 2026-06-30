@@ -12,17 +12,14 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 ### Meetup
 
-- [Pitagora Meetup 2026-01](meetup/2026/meetup-202601)
-  - 2026-01-08 @ ハイブリッド
-- [Pitagora Meetup 2026-02](meetup/2026/meetup-202602)
-  - 2026-02-06 @ ハイブリッド
 - [Pitagora Meetup 2026-03](meetup/2026/meetup-202603)
-  - 2026-03-13 @ ハイブリッド
+  - 2026-07-13 @ ハイブリッド
+- [Pitagora Meetup 2026-03](meetup/2026/meetup-202603)
+  - 2026-08-13 @ ハイブリッド
+- [Pitagora Meetup 2026-03](meetup/2026/meetup-202603)
+  - 2026-09-13 @ ハイブリッド
 
-### Related Meetings
-
-- [国内版バイオハッカソン BH25.7](https://github.com/dbcls/bh25.7/wiki)
-- [DBCLS BioHackathon 2025](https://github.com/biohackathon-japan)
+<!-- ### Related Meetings -->
 
 ## Past Events
 
@@ -30,6 +27,18 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 ### Meetup
 
+- [Pitagora Meetup 2026-06](meetup/2026/meetup-202606)
+  - 2026-06-12 @ ハイブリッド, 参加者5名
+- [Pitagora Meetup 2026-05](meetup/2026/meetup-202605)
+  - 2026-05-14 @ ハイブリッド, 参加者5名
+- [Pitagora Meetup 2026-04](meetup/2026/meetup-202604)
+  - 2026-04-10 @ ハイブリッド, 参加者5名
+- [Pitagora Meetup 2026-03](meetup/2026/meetup-202603)
+  - 2026-03-12 @ ハイブリッド, 参加者4名
+- [Pitagora Meetup 2026-02](meetup/2026/meetup-202602)
+  - 2026-02-13 @ ハイブリッド, 参加者6名
+- [Pitagora Meetup 2026-01](meetup/2026/meetup-202601)
+  - 2026-01-08 @ ハイブリッド, 参加者6名
 - [Pitagora Meetup 2025-12](meetup/2025/meetup-202512)
   - 2025-12-05 @ ハイブリッド, 参加者4名
 - [Pitagora Meetup 2025-11](meetup/2025/meetup-202511)
@@ -280,6 +289,8 @@ OSSコミュニティである Pitagora Network のメインの活動 Pitagora M
 
 #### Hackathons
 
+- [国内版バイオハッカソン BH25.7](https://github.com/dbcls/bh25.7/wiki)
+- [DBCLS BioHackathon 2025](https://github.com/biohackathon-japan)
 - [BioHackathon-Europe 2023](https://biohackathon-europe.org/) (Registration closed)
   - 30th October (Mon) - 3rd November (Fri), 2023 @ Barcelona
 - [国内版バイオハッカソン BH23.9](https://github.com/dbcls/bh23.9/wiki)
